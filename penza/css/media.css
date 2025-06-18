@@ -1,0 +1,533 @@
+
+
+
+@media screen and (max-width: 2560px){
+
+.home{
+    background: url(../img/air.png) repeat-x center bottom,
+    url(../img/bg5.jpg) no-repeat center top / cover;
+}
+
+
+
+
+@media screen and (max-width: 1920px){
+
+.home{
+    background: url(../img/air.png) repeat-x center bottom,
+    url(../img/bg5.jpg) no-repeat center / cover;
+}
+
+}
+
+
+
+@media screen and (max-width: 1820px){
+
+.block_top .el{
+    left: 50px;
+}
+.block_top .el2{
+    right: 50px;
+}
+
+}
+
+
+
+@media screen and (max-width: 1400px){
+
+.block_top .el {
+width: 120px;
+bottom: 20px;
+}
+
+}
+
+@media screen and (max-width: 1190px){
+
+.utp .zag {
+    font-size: 45px;
+    line-height: 50px;
+}
+.vopros .el{
+    display: none;
+}
+.vopros .el2{
+    display: none;
+}
+.vopros .zag {
+    font-size: 30px;
+    line-height: 32px;
+}
+
+
+}
+
+
+
+
+@media screen and (max-width: 1140px){
+
+.header .title{
+    display: none;
+}
+.header .time{
+    display: none;
+}
+
+}
+
+
+
+
+
+@media screen and (max-width: 1100px){
+
+.block_top .men{
+    width: 550px;
+    top: 200px;
+}
+.chto .znak{
+    width: 130px;
+}
+.chto .znak2{
+    width: 130px;
+}
+
+}
+
+
+
+
+@media screen and (max-width: 991px){
+
+.block_top h1{
+    margin-top: 650px;
+    text-align: center;
+    font-size: 50px;
+    line-height: 55px;
+}
+.block_top .men{
+    right: 50%;
+    margin-right: -250px;
+    top: 100px;
+}
+.block_top .el{
+    width: 150px;
+    top: 350px;
+}
+.block_top .el2{
+    width: 150px;
+    top: 200px;
+}
+.block_top .pay{
+    right: auto;
+    left: 50px;
+    top: 120px;
+}
+.block_top .air{
+    bottom: auto;
+    top: 500px;
+}
+.block_top{
+    padding-bottom: 50px;
+    background: url(../img/bg.jpg) no-repeat center top/ 1600px;
+}
+.block_top .anonim{
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.block_top .cen{
+    text-align: center;
+}
+.block_top .cen span:before{
+    display: none;
+}
+.block_top .per{
+    text-align: center;
+}
+.block_top .form_top{
+    text-align: center;
+    width: 300px;
+    margin: auto;
+}
+.utp .zag{
+    text-align: center;
+    margin-top: 50px;
+}
+.utp .text{
+    text-align: center;
+}
+.utp .glav{
+    width: 300px;
+    margin: auto;
+}
+.utp .men{
+    width: 300px;
+    top: 350px;
+    margin-left: -180px;
+}
+.utp .pl{
+    margin-top: 320px;
+}
+.comment{
+    padding-top: 50px;
+}
+
+}
+
+
+
+
+
+@media screen and (max-width: 920px){
+
+.header2 .menu a {
+    font-size: 15px;
+}
+
+}
+
+
+
+
+
+@media screen and (max-width: 768px){
+
+.map .blocks{
+    position: relative;
+    margin: auto;
+    right: auto;
+    top: -50px;
+}
+.map iframe{
+    height: 250px;
+}
+
+}
+
+
+
+
+
+@media screen and (max-width: 767px){
+
+.header{
+    display: none;
+}
+.header2{
+    display: block;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.header2 .menu{
+    display: none;
+}
+.header2 .mob{
+    display: flex;
+}
+.footer{
+    text-align: center;
+}
+.footer .title{
+    margin-bottom: 15px;
+}
+.vopros .zag {
+    text-align: center;
+}
+
+}
+
+
+
+
+
+@media screen and (max-width: 575px){
+
+.block_top .pay{
+    left: 0px;
+}
+.block_top .men{
+    top: 80px;
+    width: 375px;
+    margin-right: -170px;
+}
+.block_top .air{
+    top: 350px;
+}
+.block_top{
+    background: url(../img/bg.jpg) no-repeat center top/ 1200px;
+} 
+.block_top h1{
+    margin-top: 500px;
+    font-size: 40px;
+    line-height: 45px;
+}
+.block_top .cen {
+    font-size: 24px;
+    line-height: 26px;
+    margin-bottom: 10px;
+}
+
+}
+
+
+
+
+
+@media screen and (max-width: 490px){
+
+.politika {
+    height: 100vh;
+    overflow-y: scroll;
+    min-height: 100vh;
+}
+
+
+}
+
+
+
+@media screen and (max-width: 420px){
+
+.big_zag{
+    font-size: 30px;
+    line-height: 32px;
+}
+.menu_left{
+    text-align: center;
+    padding-left: 0px;
+}
+.menu_left .time{
+    margin: auto;
+}
+.block_top .el{
+    width: 100px;
+    top: 350px;
+    left: 20px;
+}
+.block_top .el2{
+    width: 100px;
+    top: 200px;
+    right: 20px;
+}
+.block_top .pay{
+    top: 80px;
+    width: 125px;  
+}
+.block_top .pay img{
+    width: 70px;
+}
+.block_top .p_text{
+    font-size: 10px;
+    line-height: 14px;
+}
+.garant .name {
+    font-size: 20px;
+    line-height: 22px;
+}
+.garant .text {
+    font-size: 12px;
+    line-height: 18px;
+}
+.utp .zag {
+    font-size: 34px;
+    line-height: 36px;
+}
+.teritori{
+    background: url(../img/bg4_2.png) no-repeat center top,
+    #1a670e;
+}
+.teritori .text{
+    margin-bottom: 20px;
+}
+.home .text{
+    margin-bottom: 20px;
+}
+.home{
+    background: url(../img/air.png) repeat-x center top 300px,
+    url(../img/bg5.jpg) no-repeat center top / 800px;
+    padding-bottom: 50px;
+}
+.map .container{
+    padding: 0px;
+}
+.footer{
+    padding-top: 0px;
+}
+.vopros{
+    padding-bottom: 50px;
+}
+.vopros .container{
+    padding: 0px;
+}
+.comment .arrow.owl_left{
+    left: -20px;
+    width: 35px;
+    height: 35px;
+}
+.comment .arrow.owl_right{
+    right: -20px;
+    width: 35px;
+    height: 35px;
+}
+.mess .f_zag{
+    font-size: 24px;
+    line-height: 26px;
+}
+.circle{
+    right: 0px;
+    width: 370px;
+    height: 370px;
+    top: 100px;
+}
+.chto .name {
+    font-size: 22px;
+    line-height: 24px;
+}
+.chto .text {
+    font-size: 12px;
+    line-height: 18px;
+}
+
+}
+
+
+
+
+@media screen and (max-width: 419px){
+
+.block_top .anonim{
+    font-size: 18px;
+}
+.utp .container{
+    padding: 0px;
+}
+.teritori .container{
+    padding: 0px;
+}
+
+
+}
+
+
+
+
+@media screen and (max-width: 375px){
+
+.block_top h1{
+    margin-top:450px;
+    font-size: 35px;
+    line-height: 37px;
+}
+
+}
+
+
+
+@media screen and (max-width: 370px){
+
+.header2 .mob .tell{
+    line-height: 16px;
+}
+.header2 .mob a {
+    font-size: 16px;
+}
+.header2 .mob .burger {
+    margin-left: 0px;
+}
+
+
+}
+
+
+
+@media screen and (max-width: 320px){
+
+
+.header2 .container{
+	padding: 0px;
+}
+
+.header2 img {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.block_top h1 {
+    font-size: 30px;
+    line-height: 32px;
+    margin-top: 400px;
+}
+.block_top .el {
+    top: 300px;
+}
+.block_top .anonim {
+    font-size: 14px;
+}
+.big_zag {
+    font-size: 26px;
+    line-height: 28px;
+}
+.block_top .but_name {
+    font-size: 20px;
+}
+.big_pod_zag {
+    font-size: 15px;
+}
+.garant .img.n2 {
+    background-size: 100%;
+}
+.utp .f_zag {
+    font-size: 30px;
+    line-height: 32px;
+}
+.utp .pl{
+	padding: 40px 20px;
+}
+.vid .name {
+    font-size: 22px;
+    line-height: 24px;
+}
+.vid .but .but_name {
+    font-size: 14px;
+    line-height: 14px;
+}
+.chto .container{
+	padding: 0px;
+}
+.obekt .name {
+    font-size: 22px;
+    line-height: 24px;
+}
+.obekt .img {
+    width: 100%;
+    height: 150px;
+}
+.but .but_name {
+    font-size: 18px;
+    line-height: 80px;
+}
+.vopros .f_zag {
+    font-size: 30px;
+    line-height: 32px;
+}
+.vopros .pl {
+    padding: 40px 20px;
+}
+.footer .title {
+    font-size: 30px;
+}
+.map .blocks {
+    width: 100%;
+    right: 0px;
+    top: -50px;
+    padding: 20px;
+    bottom: auto;
+}
+.garant .bl5 {
+    background-size: 100%;
+}
+
+}
